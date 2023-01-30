@@ -1,0 +1,20 @@
+npm init -y
+npm i express bcrypt express-handlebars cookie-parser jsonwebtoken 
+npm i mongoose
+
+
+Use of templates
+Use of database
+Use of express plugin libraries
+User registration
+- cookies and session
+- hashing of passwords
+- JSON Web Token
+Error handling
+Full CRUD (aplication specific)
+- catalog
+- details
+- create
+- edit
+- delete
+
