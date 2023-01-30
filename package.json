@@ -1,0 +1,27 @@
+{
+  "name": "exam-preparation-js-back-end",
+  "version": "1.0.0",
+  "description": "Exam Preparation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VsVch/Exam-Preparation-JS-Back-End.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VsVch/Exam-Preparation-JS-Back-End/issues"
+  },
+  "homepage": "https://github.com/VsVch/Exam-Preparation-JS-Back-End#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
